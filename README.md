@@ -1,7 +1,5 @@
 The `FletTextfieldExtras` control is an enhanced version of the standard Flet `TextField`, offering a wider range of text manipulation and selection capabilities. It provides additional properties and methods for handling text selection, cursor position, and text insertion, giving developers more granular control over user input. This makes it ideal for building applications that require rich text editing features or precise cursor and selection management.
 
------
-
 ## Installation
 
 Add dependency to `pyproject.toml` of your Flet app:
@@ -34,13 +32,9 @@ Build your app:
 flet build macos -v
 ```
 
------
-
 ## Documentation
 
 [Link to documentation](https://MyGithubAccount.github.io/flet-textfield-extras/)
-
------
 
 ## Text Selection Properties and Functions
 
@@ -55,8 +49,6 @@ The `FletTextfieldExtras` control extends the standard Flet `TextField` to provi
 | `insert_text(text: str, position: int)` | `function` | Inserts the given `text` at the specified `position` in the `TextField`'s value. |
 | `get_selection()` | `function` | Returns the currently selected text as a string. |
 | `set_selection(base_offset: int, extent_offset: int)` | `function` | Sets the text selection from `base_offset` to `extent_offset`. |
-
------
 
 ## `TextSelection` Object
 
