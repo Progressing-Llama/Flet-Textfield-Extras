@@ -42,7 +42,7 @@ The `FletTextfieldExtras` control extends the standard Flet `TextField` to provi
 
 | Property/Function | Type | Description |
 | :--- | :--- | :--- |
-| `text_selection` | `TextSelection` (read-only) | Represents the current text selection state of the `TextField` as a `TextSelection` object. |
+| `text_selection` | `TextSelection` | Represents the current text selection state of the `TextField` as a `TextSelection` object. |
 | `on_selection_change` | `Callable[[TextSelection], None]` | An event handler that is called when the text selection within the `TextField` changes. It passes the new `TextSelection` object to the handler. |
 | `set_cursor_position(position: int, update: bool = True)` | `function` | Sets the cursor position (a collapsed selection) at the specified `position`. If `update` is `True`, the UI is updated immediately. |
 | `get_cursor_position()` | `function` | Returns the current cursor position. |
