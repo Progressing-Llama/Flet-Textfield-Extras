@@ -1,3 +1,4 @@
+# FletTextfieldExtras
 The `FletTextfieldExtras` control is an enhanced version of the standard Flet `TextField`, offering a wider range of text manipulation and selection capabilities. It provides additional properties and methods for handling text selection, cursor position, and text insertion, giving developers more granular control over user input. This makes it ideal for building applications that require rich text editing features or precise cursor and selection management.
 
 ## Installation
