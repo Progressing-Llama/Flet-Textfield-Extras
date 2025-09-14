@@ -3,6 +3,11 @@ The `FletTextfieldExtras` control is an enhanced version of the standard Flet `T
 
 ## Installation
 
+The python api can be installed from PyPI:
+```bash
+pip install flet-textfield-extras
+```
+
 Add dependency to `pyproject.toml` of your Flet app:
 
   * **Git dependency**
