@@ -10,7 +10,7 @@ Link to git repository:
 
 ```
 dependencies = [
-  "flet-textfield-extras @ git+https://github.com/MyGithubAccount/flet-textfield-extras",
+  "flet-textfield-extras @ git+https://github.com/Progressing-Llama/Flet-Textfield-Extras",
   "flet>=0.28.3",
 ]
 ```
@@ -34,7 +34,7 @@ flet build macos -v
 
 ## Documentation
 
-[Link to documentation](https://MyGithubAccount.github.io/flet-textfield-extras/)
+[Link to documentation](https://github.com/Progressing-Llama/Flet-Textfield-Extras)
 
 ## Text Selection Properties and Functions
 
