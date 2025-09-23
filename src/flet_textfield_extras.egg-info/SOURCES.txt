@@ -10,7 +10,6 @@ src/flet_textfield_extras.egg-info/top_level.txt
 src/flutter/flet_textfield_extras/CHANGELOG.md
 src/flutter/flet_textfield_extras/LICENSE
 src/flutter/flet_textfield_extras/README.md
-src/flutter/flet_textfield_extras/pubspec.lock
 src/flutter/flet_textfield_extras/pubspec.yaml
 src/flutter/flet_textfield_extras/lib/flet_textfield_extras.dart
 src/flutter/flet_textfield_extras/lib/src/create_control.dart
